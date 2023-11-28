@@ -1,4 +1,4 @@
-# CalculadoraCircuitos
+# Circuit Calculator
 
 ## Description 📖
 This is an algorithm that calculates the eletrical current using an "eletrical mesh" and Gauss
